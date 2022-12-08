@@ -1,0 +1,2 @@
+1. HATEOAS
+2. HELMET
